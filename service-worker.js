@@ -1,0 +1,1 @@
+console.log('Se agrega el archivo para el service worker');
